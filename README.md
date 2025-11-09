@@ -77,8 +77,8 @@ Cleaned & transformed using Python → saved as `clean_startup_funding_ready.csv
 ---
 
 ## 💼 Author
-👤 **Kan Mike**  
-📧 [LinkedIn Profile](https://linkedin.com/in/) _(add your LinkedIn link here)_  
+👤 **Mohitkumar**  
+📧 [LinkedIn Profile](www.linkedin.com/in/shah-mohitkumar-3002a829a) 
 🏷️ *Data Analyst | Python | Power BI | SQL | Excel*
 
 ---
